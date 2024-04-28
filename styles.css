@@ -1,0 +1,7 @@
+@import "modern-normalize.css";
+
+*{
+	border: black solid 1px;
+	border-radius: 15px;
+}
+
